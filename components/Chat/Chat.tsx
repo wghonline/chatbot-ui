@@ -377,12 +377,12 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
             <div>
               {t("If you don't have an OpenAI API key, you can get one here: ")}
               <a
-                href="https://platform.openai.com/account/api-keys"
+                href="https://buy.skyman.cloud/#/goods?goods_id=5"
                 target="_blank"
                 rel="noreferrer"
                 className="text-blue-500 hover:underline"
               >
-                openai.com
+                OpenAi Key API
               </a>
             </div>
           </div>
